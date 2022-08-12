@@ -2,8 +2,10 @@
 <lr>
 <p>I'm currently pursuing btech from <strong><a href="https://www.bpitindia.com/">IPU</a></strong> I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Linus Torvalds.</p>
 <p> <a href="https://medium.com/@miglanidevansh83"><img src="https://img.shields.io/badge/-@miglanidevansh83-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@miglanidevansh83" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/devansh-miglani-416b25227/"><img src="https://img.shields.io/badge/-@seew-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/devansh-miglani-416b25227/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6"><img src="https://img.shields.io/badge/-@seew-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6" alt="Spotify Badge"></a></p>
-<p>Have fun it is all that matters</p>
+<p><strong>Have fun it is all that matters</strong></p>
+<br>
 <img align="right" src="https://media0.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif?cid=ecf05e47i8m2bbeqtzrvi7la29rie1v1picncf1xc41gx5wb&rid=giphy.gif&ct=g" />
+<br>
 <h2> ABOUT MYSELF </h2>
 <ul>
 <li>🔭 I'm currently working at <a href="https://github.com/hash-define-organization">HashDefine</a>.</li>
@@ -41,4 +43,4 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=seew0&show_icons=true&count_private=true" alt="seew0" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=seew0.seew0" alt="visitors"></p>
-<p><img src="https://leetcard.jacoblin.cool/seew0" alt="leetcode stats"></pD>
+
