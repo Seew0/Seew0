@@ -28,11 +28,11 @@
     </li>
     <li> Learning about 
         <strong>
-        DSA
-        </strong>, 
+        DSA,
+        </strong> 
         <strong>
-        Development
-        </strong>,
+        Development,
+        </strong>
         <strong>
         DevOps
         </strong>
