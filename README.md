@@ -125,9 +125,9 @@
     <a href="https://steamcommunity.com/id/seewhoo/">
         <img src="https://img.shields.io/badge/-Steam-0000b3?style=flat-square&amp;logo=Steam&amp;link=https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6" alt="Spotify Badge">
     </a>
-    <a href="http://discordapp.com/users/450097292608012318">
+<!--     <a href="http://discordapp.com/users/450097292608012318">
         <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-sqaure%amp;logo=Discord&amp;link=http://discordapp.com/users/450097292608012318" alt="Discord badge">
-    </a>
+    </a> -->
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=seew0&show_icons=true&count_private=true" alt="seew0" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=seew0.seew0" alt="visitors"></p>
