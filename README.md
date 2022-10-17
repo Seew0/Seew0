@@ -1,46 +1,131 @@
-<h2>Hey 👋, I'm Seew</h2>
+<div align="center">
+<img src="https://i.imgur.com/wbqxOiN.png" align="center" style="width:100%" />
+</div>  
+<br>
+
+# Hey I'm Seew 🦥
 <lr>
-<p>I'm currently pursuing btech from <strong><a href="https://www.bpitindia.com/">IPU</a></strong> I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Linus Torvalds.</p>
-<p> <a href="https://medium.com/@miglanidevansh83"><img src="https://img.shields.io/badge/-@miglanidevansh83-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@miglanidevansh83" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/devansh-miglani-416b25227/"><img src="https://img.shields.io/badge/-@seew-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/devansh-miglani-416b25227/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6"><img src="https://img.shields.io/badge/-@seew-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6" alt="Spotify Badge"></a></p>
-<p><strong>Have fun it is all that matters</strong></p>
+<p>I'm currently a sophomore at 
+    <strong>
+        <a href="https://www.bpitindia.com/">
+        IPU.
+        </a>
+    </strong> I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Linus Torvalds.</p>
+<lr>
+
+
+ <!-- <p><strong></strong></p> -->
 <br>
-<img align="center" src="https://media0.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif?cid=ecf05e47i8m2bbeqtzrvi7la29rie1v1picncf1xc41gx5wb&rid=giphy.gif&ct=g" />
+<img align="center" src="https://media.tenor.com/7JZz0yoyD6UAAAAC/linux-linux-is-better.gif" />
+
 <br>
-<h2> ABOUT MYSELF </h2>
+
+## About Me
 <ul>
-<li>🔭 I'm currently working at <a href="https://github.com/hash-define-organization">HashDefine</a>.</li>
-<li>🧐 Learning about <strong>DSA</strong>, <strong>Development</strong>, and a bit of <strong>Linux</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Seew0">Github</a>.</li>
-<li>💬 Ping me about <strong>linux, js, security, and devops stuff</strong>.</li>
+    <li> I'm currently working at 
+        <a href="https://github.com/hash-define-organization">Hash Define.
+        </a>
+    </li>
+    <li> Learning about 
+        <strong>
+        DSA
+        </strong>, 
+        <strong>
+        Development
+        </strong>,
+        <strong>
+        DevOps
+        </strong>
+         and a bit of 
+        <strong>
+            <a href="https://github.com/seew0/dotfiles">
+            Linux.
+            </a>
+        </strong>
+    </li>
+    <li> Most of my projects are available on 
+        <a href="https://github.com/Seew0">
+        Github.
+        </a>
+        and
+        <a href="https://gitlab.com/seew0"> 
+        Gitlab
+        </a>
+    </li>
+    <li> You ping me about 
+        <strong>
+        linux, JS, security, and DevOps.
+        </strong>
+    </li>
 </ul>
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt=".C++" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="unix" width="25" height="25" />
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" /> -->
-</p>
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailwindCss" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
+<img style="margin:  10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+ 
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+</div>
+
+</td></tr></table>  
+
+
+## Connect with me 
+<p> 
+    <a href="https://medium.com/@miglanidevansh83">
+        <img src="https://img.shields.io/badge/-@seew-14c767?style=flat-square&amp;&amp;logo=Medium&amp;link=https://medium.com/@miglanidevansh83" alt="Medium Badge">
+    </a> 
+    <a href="https://www.linkedin.com/in/devansh-miglani-416b25227/">
+        <img src="https://img.shields.io/badge/-@seew-0077B5?style=flat-square&amp;&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/devansh-miglani-416b25227/" alt="LinkedIn Badge">
+    </a> 
+    <a href="https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6">
+        <img src="https://img.shields.io/badge/-@seew-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6" alt="Spotify Badge">
+    </a>
+    </p>
+    <a href="https://steamcommunity.com/id/seewhoo/">
+        <img src="https://img.shields.io/badge/-@seew-0000b3?style=flat-square&amp;logo=Steam&amp;link=https://open.spotify.com/user/t7ldt174ttnbzlgs3kflptezv?si=69948b37e0ee41b6" alt="Spotify Badge">
+    </a>
 <img src="https://github-readme-stats.vercel.app/api?username=seew0&show_icons=true&count_private=true" alt="seew0" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=seew0.seew0" alt="visitors"></p>
 
