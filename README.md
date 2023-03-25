@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/96205648/199062691-141f15c8-c783-41b7-a8f1-bbee1d48af35.png" align="center" style="width:100%" />
-</div>  
 <br>
 
 # Hey I'm Seew 🦥
