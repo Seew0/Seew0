@@ -1,8 +1,6 @@
 <br>
 
 # Hey I'm Seew 🦥
-<br>
-
 ## About Me
 <ul>
     <li> I'm currently working at 
