@@ -1,20 +1,6 @@
 <br>
 
 # Hey I'm Seew 🦥
-<lr>
-<p>I'm currently a sophomore at 
-    <strong>
-        <a href="https://www.bpitindia.com/">
-        IPU.
-        </a>
-    </strong> I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Linus Torvalds.</p>
-<lr>
-
-
- <!-- <p><strong></strong></p> -->
-<br>
-<img align="center" src="https://media.tenor.com/7JZz0yoyD6UAAAAC/linux-linux-is-better.gif" />
-
 <br>
 
 ## About Me
